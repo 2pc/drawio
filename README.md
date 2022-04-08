@@ -5,6 +5,7 @@ About
 draw.io, this project, is a configurable diagramming/whiteboarding visualization application. draw.io is owned and developed by JGraph Ltd, a UK based software company.
 
 As well as running this project, we run a production-grade deployment of the diagramming interface at https://app.diagrams.net.
+ https://2pc.github.io/drawio/src/main/webapp/index.html 
 
 License
 -------
