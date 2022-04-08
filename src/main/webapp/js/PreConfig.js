@@ -11,3 +11,7 @@ window.DRAWIO_LIGHTBOX_URL = null; // Replace with your lightbox URL, eg. https:
 window.DRAW_MATH_URL = 'math';
 window.DRAWIO_CONFIG = null; // Replace with your custom draw.io configurations. For more details, https://www.diagrams.net/doc/faq/configure-diagram-editor
 urlParams['sync'] = 'manual';
+
+window.DRAWIO_GITHUB_URL = "https://alm-github.com"
+window.DRAWIO_GITHUB_URL = "https://alm-github.com/api/v3"
+window.DRAWIO_GITHUB_ID = '13470044'
